@@ -16,8 +16,5 @@ Skills: REACT / REDUX / BOOTSTRAP / FIREBASE / SASS / HTML / CSS / NODE / MONGOD
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=coolaquas&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=coolaquas)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=coolaquas)  
 
 ![Profile views](https://gpvc.arturio.dev/coolaquas)  
