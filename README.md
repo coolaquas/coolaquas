@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Samrat Mallick.
-#### I am Full-Stack Developer from India.![Profile views](https://gpvc.arturio.dev/coolaquas)  
+#### I am Full-Stack Developer from India.    ![Profile views](https://gpvc.arturio.dev/coolaquas)  
 
 Skills: REACT / REDUX / BOOTSTRAP / FIREBASE / SASS / HTML / CSS / NODE / MONGODB / EXPRESS
 .
