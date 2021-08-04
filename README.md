@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samrat Mallick</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>    ![Profile views](https://gpvc.arturio.dev/coolaquas)  
+<h3 align="center">A passionate full-stack developer from India</h3>    
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coolaquas&label=Profile%20views&color=0e75b6&style=flat" alt="coolaquas" /> </p>
 
 Skills: REACT / REDUX / BOOTSTRAP / FIREBASE / SASS / HTML / CSS / NODE / MONGODB / EXPRESS
 .
