@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samrat Mallick</h1>
+<h1 align="center">Hi 👋, I'm</h1>
 <img align="center" src="/sign.gif" alt="samrat-mallick" height="100" width="900" />
 <h3 align="center">A passionate full-stack developer from India.</h3>
 
