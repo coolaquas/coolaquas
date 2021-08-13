@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samrat Mallick</h1>
-<img align="center" src="/sign.gif" alt="samrat-mallick" height="50" width="100" />
+<img align="center" src="/sign.gif" alt="samrat-mallick" height="100" width="900" />
 <h3 align="center">A passionate full-stack developer from India.</h3>
 
 <h3 align="left">Connect with me:</h3>
