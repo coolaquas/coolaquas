@@ -1,52 +1,140 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Samrat+Mallick;Lead+Frontend+Engineer;M.Tech+AR/VR+@+IIT+Jodhpur" alt="Typing SVG" />
-</h1>
+# SAMRAT MALLICK  
+### Staff-Level Frontend Architect | Performance Engineer | M.Tech – IIT Jodhpur
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=coolaquas&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/stars/coolaquas?style=for-the-badge&color=0e75b6" alt="stars" />
+  <a href="https://linkedin.com/in/samrat-mallick">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=coolaquas&style=for-the-badge&color=grey" />
 </p>
 
 ---
 
-### 🏛️ Engineering Leadership & Academic Focus
-> **Lead Frontend Engineer** with **8+ years** of industry experience building high-scale enterprise applications. Currently pursuing an **M.Tech in AR/VR at IIT Jodhpur**, specializing in web-based spatial computing and 3D data visualization.
+## 🏗 Architecture-First Engineering
 
-- 🚀 **Lead Performance:** Slashed TTI by **40%** for platforms serving **30,000+ users**.
-- 🏗️ **Architecture:** Expert in **Micro-Frontend** migration and scalable **React/Next.js** ecosystems.
-- 🎓 **Academic Research:** Pioneering **3D Screen Reconstruction** using **Three.js** and spatial data structures.
+Frontend Architect with 8+ years of experience designing scalable enterprise platforms serving **30K+ users**.
 
----
+I build systems — not pages.
 
-### 🛠️ Strategic Tech Stack
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend** | `React.js` `Next.js` `TypeScript` `Tailwind CSS` `Redux Toolkit` |
-| **Specialized** | `Three.js` `WebXR` `3D Point Clouds` `Computer Vision` |
-| **Infrastructure** | `Node.js` `Docker` `AWS` `Jenkins CI/CD` `NGINX` |
-| **Testing** | `Jest` `Playwright` `Core Web Vitals Profiling` |
+- Led migration from monolith to **Micro-Frontend architecture**
+- Engineered **40% performance improvement** (TTI reduction)
+- Increased feature velocity by **25%** via reusable platform design
+- Reduced production defects by **15%** through TDD & review standards
+- Currently advancing spatial computing research at **IIT Jodhpur**
 
 ---
 
-### 📊 Performance & Impact
+## 🧠 Core Expertise
+
+**Frontend Platform Architecture**
+- React / Next.js (App Router, SSR, RSC)
+- TypeScript-first system design
+- Micro-Frontends
+- Design Systems & Component Platforms
+
+**Performance Engineering**
+- Core Web Vitals optimization
+- Tree-shaking & bundle strategy
+- Rendering performance profiling
+- Lighthouse 95+ architecture standards
+
+**3D & Spatial Web**
+- Three.js
+- WebXR
+- Real-time 3D Point Cloud Rendering
+- Browser-based spatial computing
+
+**DevOps & Infrastructure Awareness**
+- Docker
+- AWS
+- CI/CD (Jenkins)
+- API abstraction & system reliability (99.9%)
+
+---
+
+## 📊 Engineering Footprint
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coolaquas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Samrat's GitHub Stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolaquas&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=coolaquas&show_icons=true&hide_border=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolaquas&layout=compact&hide_border=true&theme=default" />
 </p>
 
 <p align="center">
-  <img width="850" src="https://github-profile-trophy.vercel.app/?username=coolaquas&column=7&theme=juicyfresh&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=coolaquas&hide_border=true&theme=default" />
 </p>
 
 ---
 
-### 📬 Connect & Collaborate
-<p align="left">
-  <a href="https://linkedin.com/in/samrat-mallick" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:samrat.mallick1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://coolaquas.github.io/Resume/" target="blank"><img src="https://img.shields.io/badge/Interactive_Resume-000000?style=for-the-badge&logo=react&logoColor=white" /></a>
+## 🏆 Engineering Recognition
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=coolaquas&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
-- 💬 **Expertise:** Ask me about **Micro-Frontends**, **Web Performance**, or **Spatial Web**.
-- ✨ **Fun Fact:** I automate my workflow using **PowerShell** to save **15+ hours** weekly.
+---
+
+## 📈 Contribution Graph (Architect’s Activity Map)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coolaquas/coolaquas/output/github-contribution-grid-snake.svg" />
+</p>
+
+> To enable snake animation:
+> Use GitHub Action: Platane/snk (I can give setup instructions if needed)
+
+---
+
+## 📊 Wakatime Development Metrics (Optional)
+
+<!-- Replace with your Wakatime badge if enabled -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-id&hide_border=true" />
+</p>
+
+---
+
+## 🔬 Research & Advanced Systems Work
+
+### 3D Screen Reconstruction – IIT Jodhpur
+
+Architected a browser-native AR/VR system capable of:
+
+- Real-time 3D point cloud rendering (60 FPS)
+- Spatial data structure optimization
+- WebXR immersive visualization
+- Foundation for animatable scene reconstruction
+
+Research focus:
+- Multi-modal 3D data diffusion
+- Real-time spatial pipelines
+- Web-native XR platforms
+
+---
+
+## 🧭 Currently Exploring
+
+- React Server Components at scale
+- Edge rendering architectures
+- Frontend observability
+- Spatial computing pipelines
+- AI-assisted UI systems
+
+---
+
+## 🧠 Engineering Principles
+
+> Architecture scales people.  
+> Performance scales products.  
+> Simplicity scales systems.  
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://linkedin.com/in/samrat-mallick  
+- Email: samrat.mallick1@gmail.com  
+- Location: Kolkata, India  
+
+---
+
+⭐ Building systems that scale — in users, performance, and dimensions.
