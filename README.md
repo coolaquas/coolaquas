@@ -30,12 +30,13 @@
 
 ### 📊 Performance & Impact
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coolaquas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolaquas&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coolaquas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Samrat's GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolaquas&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="850" src="https://github-profile-trophy.vercel.app/?username=coolaquas&column=7&theme=juicyfresh&margin-w=15" />
+  <img width="850" src="https://github-profile-trophy.vercel.app/?username=coolaquas&column=7&theme=juicyfresh&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
